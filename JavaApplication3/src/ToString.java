@@ -32,10 +32,7 @@ public class ToString {
     }
     public String toString()
     {
-    String name;
-    String departmetn;
-    String designation;
-    int salary;
+  
     //now for return/output statement
     //hr veriable ko get k sath lgaygy jsy nchy d hoe ha
     
@@ -43,7 +40,7 @@ public class ToString {
             +"designation is=HOD \t"
             +getdesignation() +"salary is=5000 \t"+getsalary();
            
-    
+    //tostring sirf return krwany k lye hota ha
     
     
     

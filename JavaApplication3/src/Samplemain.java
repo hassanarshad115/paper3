@@ -8,7 +8,7 @@
 //asy b kr skty hain
 //string toString waly portion ma phly jo oper veriables lye ho inhy String ha to string k saath
 //agr int ha to int k sath declare kary 
-//fr return k agy get k sath hr ak ko output kry
+//fr return k agy get k sath hr ak ko ouTPUT
 public class Samplemain {
     public static void main(String []args)
     {

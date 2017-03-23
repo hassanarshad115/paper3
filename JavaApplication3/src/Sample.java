@@ -15,7 +15,7 @@ public class Sample { //is breket m veriables declare hoty hai
     //set process start  ismy value kse dosry veriable m dty hain
      public void setname(String n)
      {
-     name=n;
+     name="";
      
      }
          public void setdepartment(String d)
@@ -43,6 +43,7 @@ public class Sample { //is breket m veriables declare hoty hai
     
     public int getsalary()
     {return salary;}
+    
     //tostring ma phly veriables assign krty hain fr return k sath output krty hain
    public  String toString() //tostring method for name and designation
     {
